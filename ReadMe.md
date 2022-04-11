@@ -12,3 +12,6 @@
 - git status
 
 - git add filename
+
+## Git Pull from remote from other users
+- git pull 
