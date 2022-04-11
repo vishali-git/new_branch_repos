@@ -18,3 +18,6 @@
 
 ## Make change in Main
 
+# Branching Stragetgy
+ - From main to Branch 1
+
